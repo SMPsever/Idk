@@ -1,0 +1,3 @@
+_G.Name = "Duydepzai🤓🤓" -- Put You Name Script Here
+_G.Logo = "https://www.roblox.com/library/15878023766/Logo-Test" -- Enter Your ID Image Here
+loadstring(Game:HttpGet"https://raw.githubusercontent.com/ImTienNguyenZ/NguyenTienSimpRose/main/NguyenMinhTienLoader")()
